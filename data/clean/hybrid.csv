@@ -1,0 +1,34 @@
+year,make,model,class,motor,engine_size,cylinders,transmission,fuel_1,comb(Le/100Km),range_1,recharge_time,fuel_2,city(L/100km),hwy(L/100km),comb(L/100km),range_2,co2_emissions,co2_rating,smog_rating
+2023,Audi,Q5 55 TFSI e quattro,SUV: Small,105.0,2.0,4.0,AM7,B/Z*,3.9 ([34.8 kWh + 0.0 L]/100 km),37.0,3.0,Z,9.3,8.7,9.0,600.0,92.0,9.0,7.0
+2023,Bentley,Bentayga Hybrid,SUV: Standard,100.0,3.0,6.0,AS8,B/Z*,5.0 ([44.2 kWh + 0.0 L]/100 km),31.0,3.0,Z,13.3,9.8,11.7,652.0,138.0,7.0,3.0
+2023,Bentley,Flying Spur Hybrid,Mid-size,103.0,2.9,6.0,AM8,B/Z*,5.1 ([45.9 kWh + 0.0 L]/100 km),34.0,3.0,Z,13.7,10.7,12.3,653.0,156.0,7.0,5.0
+2023,BMW,330e Sedan,Compact,80.0,2.0,4.0,AS8,B/Z*,3.2 ([28.2 kWh + 0.0 L]/100 km),35.0,3.0,Z,9.9,7.4,8.8,468.0,98.0,9.0,7.0
+2023,BMW,330e xDrive Sedan,Compact,80.0,2.0,4.0,AS8,B/Z*,3.4 ([29.5 kWh + 0.0 L]/100 km),34.0,3.0,Z,10.6,7.4,9.2,452.0,107.0,9.0,7.0
+2023,BMW,530e xDrive Sedan,Mid-size,80.0,2.0,4.0,AS8,B/Z*,3.8 ([32.9 kWh + 0.0 L]/100 km),31.0,3.0,Z,10.5,8.4,9.5,486.0,126.0,8.0,7.0
+2023,BMW,X3 xDrive30e,SUV: Small,80.0,2.0,4.0,AS8,B/Z*,3.9 ([34.7 kWh + 0.0 L]/100 km),29.0,3.0,Z,11.4,8.6,10.1,502.0,129.0,8.0,7.0
+2023,BMW,X5 xDrive45e,SUV: Standard,83.0,3.0,6.0,AS8,B/Z*,4.5 ([39.2 kWh + 0.0 L]/100 km),50.0,5.0,Z,12.2,10.6,11.5,602.0,110.0,8.0,7.0
+2023,BMW,XM,SUV: Standard,145.0,4.4,8.0,AS8,B/Z*,5.1 ([45.5 kWh + 0.0 L]/100 km),50.0,7.0,Z,19.9,13.9,17.2,431.0,152.0,7.0,7.0
+2023,Chrysler,Pacifica Hybrid,Minivan,89.0,3.6,6.0,AV,B/X*,2.9 ([25.8 kWh + 0.0 L]/100 km),51.0,2.0,X,8.0,7.9,8.0,784.0,74.0,10.0,7.0
+2023,Ford,Escape Plug-in Hybrid,SUV: Small,62.0,2.5,4.0,AV,B/X*,2.3 ([20.6 kWh + 0.0 L]/100 km),60.0,3.4,X,5.6,6.3,5.9,771.0,49.0,10.0,8.0
+2023,Hyundai,Santa Fe Plug-in Hybrid,SUV: Small,67.0,1.6,4.0,AM6,B/X*,3.1 ([27.5 kWh + 0.0 L]/100 km),50.0,3.4,X,7.1,7.3,7.2,655.0,69.0,10.0,7.0
+2023,Hyundai,Tucson Plug-in Hybrid,SUV: Small,67.0,1.6,4.0,AM6,B/X*,2.9 ([25.9 kWh + 0.0 L]/100 km),53.0,1.7,X,6.8,6.6,6.7,626.0,62.0,10.0,7.0
+2023,Jeep,Grand Cherokee 4xe,SUV: Standard,100.0,2.0,4.0,A8,B/X*,4.2 ([36.0 kWh + 0.0 L]/100 km),42.0,3.4,X,10.3,9.7,10.0,719.0,110.0,8.0,7.0
+2023,Jeep,Wrangler 4xe,SUV: Small,100.0,2.0,4.0,A8,B/X*,4.8 ([42.2 kWh + 0.0 L]/100 km),35.0,2.4,X,11.6,11.9,11.7,557.0,143.0,7.0,5.0
+2023,Kia,Niro Plug-in Hybrid,Station wagon: Small,62.0,1.6,4.0,AM6,B/X*,2.1 ([19.2 kWh + 0.0 L]/100 km),55.0,2.8,X,4.6,4.9,4.8,781.0,42.0,10.0,7.0
+2023,Kia,Sorento Plug-in Hybrid,SUV: Small,67.0,1.6,4.0,AM6,B/X*,3.0 ([26.4 kWh + 0.0 L]/100 km),51.0,3.4,X,6.7,7.1,6.9,681.0,65.0,10.0,7.0
+2023,Kia,Sportage Plug-in Hybrid,SUV: Small,67.0,1.6,4.0,AM6,B/X*,2.8 ([24.9 kWh + 0.0 L]/100 km),55.0,2.0,X,6.6,6.7,6.7,632.0,60.0,10.0,7.0
+2023,Lexus,NX 450h+ AWD,SUV: Small,134.0,2.5,4.0,AV6,B/Z*,2.8 ([24.7 kWh + 0.0 L]/100 km),61.0,4.5,Z,6.2,7.0,6.6,835.0,54.0,10.0,7.0
+2023,Lincoln,Aviator Grand Touring,SUV: Standard,62.0,3.0,6.0,AS10,B/X*,4.2 ([37.3 kWh + 0.0 L]/100 km),34.0,3.5,X,10.9,9.6,10.3,713.0,130.0,8.0,7.0
+2023,Lincoln,Corsair Grand Touring,SUV: Small,62.0,2.5,4.0,AV,B/X*,3.1 ([27.5 kWh + 0.0 L]/100 km),43.0,3.2,X,6.9,7.4,7.1,639.0,76.0,10.0,8.0
+2023,Mercedes-Benz,S 580e 4MATIC Sedan,Full-size,110.0,3.0,6.0,A9,B/Z,4.6 ([30.4 kWh + 1.2 L]/100 km),90.0,2.25,Z,11.5,8.2,10.0,671.0,67.0,10.0,7.0
+2023,MINI,Cooper SE Countryman ALL4,Mid-size,65.0,1.5,3.0,AS6,B/Z*,3.2 ([28.4 kWh + 0.0 L]/100 km),29.0,3.0,Z,8.1,7.9,8.0,451.0,109.0,8.0,3.0
+2023,Mitsubishi,Outlander PHEV AWD,SUV: Standard,100.0,2.4,4.0,A1,B/X*,3.6 ([32.1 kWh + 0.0 L]/100 km),61.0,6.5,X,9.2,8.7,9.0,626.0,70.0,10.0,7.0
+2023,Subaru,Crosstrek Hybrid AWD,SUV: Small,100.0,2.0,4.0,AV,B/X*,2.6 ([23.5 kWh + 0.0 L]/100 km),27.0,2.0,X,6.6,6.8,6.7,747.0,94.0,9.0,6.0
+2023,Toyota,Prius Prime SE,Mid-size,120.0,2.0,4.0,AV,B/X*,1.8 ([16.4 kWh + 0.0 L]/100 km),72.0,4.0,X,4.4,4.6,4.5,890.0,31.0,10.0,7.0
+2023,Toyota,Prius Prime XSE,Mid-size,120.0,2.0,4.0,AV,B/X*,2.1 ([18.3 kWh + 0.0 L]/100 km),64.0,4.0,X,4.7,5.0,4.9,826.0,37.0,10.0,7.0
+2023,Toyota,RAV4 Prime,SUV: Small,134.0,2.5,4.0,AV,B/X*,2.5 ([22.3 kWh + 0.0 L]/100 km),68.0,4.5,X,5.7,6.4,6.0,911.0,44.0,10.0,7.0
+2023,Volvo,S60 T8 AWD Recharge,Compact,107.0,2.0,4.0,AS8,B/Z*,3.0 ([27.2 kWh + 0.0 L]/100 km),64.0,5.0,Z,8.0,7.2,7.6,792.0,58.0,10.0,7.0
+2023,Volvo,S90 T8 AWD Recharge,Mid-size,107.0,2.0,4.0,AS8,B/Z*,3.4 ([30.0 kWh + 0.0 L]/100 km),61.0,5.0,Z,8.5,7.6,8.1,748.0,65.0,10.0,7.0
+2023,Volvo,V60 T8 AWD Recharge,Station wagon: Small,107.0,2.0,4.0,AS8,B/Z*,3.0 ([27.2 kWh + 0.0 L]/100 km),64.0,5.0,Z,8.0,7.2,7.6,792.0,58.0,10.0,7.0
+2023,Volvo,XC60 T8 AWD Recharge,SUV: Small,107.0,2.0,4.0,AS8,B/Z*,3.5 ([31.2 kWh + 0.0 L]/100 km),58.0,5.0,Z,8.5,8.5,8.5,838.0,72.0,10.0,7.0
+2023,Volvo,XC90 T8 AWD Recharge,SUV: Standard,107.0,2.0,4.0,AS8,B/Z*,3.8 ([34.4 kWh + 0.0 L]/100 km),53.0,5.0,Z,9.1,8.6,8.9,803.0,82.0,9.0,7.0

@@ -1,0 +1,145 @@
+year,make,model,class,motor,transmission,fuel,city(kWh/100km),hwy(kWh/100km),comb(kWh/100km),city(Le/100km),hwy(Le/100km),comb(Le/100km),range,co2_emissions,co2_rating,smog_rating,recharge_time
+2023,Audi,e-tron 55 quattro,SUV: Standard,300.0,A1,B,26.8,26.5,26.6,3.0,3.0,3.0,364.0,0.0,10.0,10.0,10.0
+2023,Audi,e-tron Sportback 55 quattro,SUV: Standard,300.0,A1,B,27.3,26.2,26.8,3.1,2.9,3.0,362.0,0.0,10.0,10.0,10.0
+2023,Audi,e-tron GT,Mid-size,390.0,A2,B,25.9,25.3,25.6,2.9,2.8,2.9,383.0,0.0,10.0,10.0,10.5
+2023,Audi,RS e-tron GT,Mid-size,475.0,A2,B,26.4,25.5,26.0,3.0,2.9,2.9,373.0,0.0,10.0,10.0,10.5
+2023,Audi,Q4 50 e-tron quattro,SUV: Small,220.0,A1,B,21.5,24.0,22.6,2.4,2.7,2.5,380.0,0.0,10.0,10.0,9.0
+2023,Audi,Q4 Sportback 50 e-tron quattro,SUV: Small,220.0,A1,B,21.0,23.4,22.1,2.4,2.6,2.5,389.0,0.0,10.0,10.0,9.0
+2023,BMW,"i4 eDrive35 Gran Coupe (18"" Wheels)",Subcompact,210.0,A1,B,18.2,18.9,18.5,2.0,2.1,2.1,412.0,0.0,10.0,10.0,8.0
+2023,BMW,"i4 eDrive35 Gran Coupe (19"" Wheels)",Subcompact,210.0,A1,B,19.6,20.5,20.0,2.2,2.3,2.2,378.0,0.0,10.0,10.0,8.0
+2023,BMW,"i4 eDrive40 Gran Coupe (18"" Wheels)",Subcompact,250.0,A1,B,19.1,19.3,19.2,2.1,2.2,2.2,484.0,0.0,10.0,10.0,10.0
+2023,BMW,"i4 eDrive40 Gran Coupe (19"" Wheels)",Subcompact,250.0,A1,B,20.9,21.3,21.1,2.3,2.4,2.4,454.0,0.0,10.0,10.0,10.0
+2023,BMW,"i4 M50 Gran Coupe (19"" Wheels)",Subcompact,400.0,A1,B,22.3,21.4,21.9,2.5,2.4,2.5,436.0,0.0,10.0,10.0,10.0
+2023,BMW,"i4 M50 Gran Coupe (20"" Wheels)",Subcompact,400.0,A1,B,26.4,26.1,26.3,3.0,2.9,3.0,365.0,0.0,10.0,10.0,10.0
+2023,BMW,"i7 xDrive60 (19"" Wheels)",Full-size,400.0,A1,B,24.0,22.9,23.5,2.7,2.6,2.6,512.0,0.0,10.0,10.0,12.0
+2023,BMW,"i7 xDrive60 (20"" Wheels)",Full-size,400.0,A1,B,25.8,24.5,25.2,2.9,2.8,2.8,476.0,0.0,10.0,10.0,12.0
+2023,BMW,"i7 xDrive60 (21"" Wheels)",Full-size,400.0,A1,B,24.5,23.5,24.1,2.8,2.6,2.7,496.0,0.0,10.0,10.0,12.0
+2023,BMW,"iX xDrive40 (20"" Wheels) ",SUV: Standard,240.0,A1,B,25.1,25.6,25.3,2.8,2.9,2.8,322.0,0.0,10.0,10.0,8.0
+2023,BMW,"iX xDrive40 (21"" Wheels) ",SUV: Standard,240.0,A1,B,24.7,25.9,25.2,2.8,2.9,2.8,322.0,0.0,10.0,10.0,8.0
+2023,BMW,"iX xDrive40 (22"" Wheels) ",SUV: Standard,240.0,A1,B,24.8,25.9,25.3,2.8,2.9,2.8,320.0,0.0,10.0,10.0,8.0
+2023,BMW,"iX xDrive50 (20"" Wheels)",SUV: Standard,385.0,A1,B,24.3,24.2,24.2,2.7,2.7,2.7,521.0,0.0,10.0,10.0,12.0
+2023,BMW,"iX xDrive50 (21"" Wheels)",SUV: Standard,385.0,A1,B,25.4,25.1,25.3,2.9,2.8,2.8,496.0,0.0,10.0,10.0,12.0
+2023,BMW,"iX xDrive50 (22"" Wheels)",SUV: Standard,385.0,A1,B,24.3,24.5,24.4,2.7,2.8,2.7,512.0,0.0,10.0,10.0,12.0
+2023,BMW,"iX M60 (21"" Wheels)",SUV: Standard,397.0,A1,B,27.6,26.3,27.0,3.1,3.0,3.0,463.0,0.0,10.0,10.0,12.0
+2023,BMW,"iX M60 (22"" Wheels)",SUV: Standard,397.0,A1,B,27.3,26.0,26.7,3.1,2.9,3.0,441.0,0.0,10.0,10.0,12.0
+2023,Cadillac,LYRIQ,SUV: Small,254.0,A1,B,21.6,25.6,23.4,2.4,2.9,2.6,502.0,0.0,10.0,10.0,6.5
+2023,Cadillac,LYRIQ AWD,SUV: Small,373.0,A1,B,21.8,25.8,23.6,2.4,2.9,2.7,494.0,0.0,10.0,10.0,10.7
+2023,Chevrolet,Bolt EUV,Station wagon: Small,150.0,A1,B,16.8,20.1,18.3,1.9,2.3,2.1,397.0,0.0,10.0,10.0,7.5
+2023,Chevrolet,Bolt EV,Station wagon: Small,150.0,A1,B,16.0,19.2,17.5,1.8,2.2,2.0,417.0,0.0,10.0,10.0,7.5
+2023,Fisker,Ocean Extreme/One,SUV: Standard,350.0,A1,B,21.2,24.9,22.9,2.4,2.8,2.6,579.0,0.0,10.0,10.0,18.0
+2023,Ford,F-150 Lightning Standard Range,Pickup truck: Standard,318.0,A1,B,27.5,34.4,30.6,3.1,3.9,3.4,386.0,0.0,10.0,10.0,11.9
+2023,Ford,F-150 Lightning Extended Range,Pickup truck: Standard,420.0,A1,B,26.9,33.3,29.8,3.0,3.7,3.3,515.0,0.0,10.0,10.0,10.1
+2023,Ford,F-150 Lightning Platinum,Pickup truck: Standard,420.0,A1,B,28.7,35.0,31.5,3.2,3.9,3.5,483.0,0.0,10.0,10.0,9.3
+2023,Ford,Mustang Mach-E Standard Range,SUV: Small,198.0,A1,B,19.0,21.9,20.3,2.1,2.5,2.3,397.0,0.0,10.0,10.0,8.1
+2023,Ford,Mustang Mach-E Standard Range (LFP),SUV: Small,198.0,A1,B,19.6,22.0,20.7,2.2,2.5,2.3,402.0,0.0,10.0,10.0,7.4
+2023,Ford,Mustang Mach-E Standard Range AWD,SUV: Small,198.0,A1,B,21.1,24.3,22.6,2.4,2.7,2.5,360.0,0.0,10.0,10.0,8.0
+2023,Ford,Mustang Mach-E Standard Range AWD (LFP),SUV: Small,232.0,A1,B,21.5,24.0,22.6,2.4,2.7,2.5,370.0,0.0,10.0,10.0,7.4
+2023,Ford,Mustang Mach-E Extended Range,SUV: Small,216.0,A1,B,19.9,22.7,21.1,2.2,2.5,2.4,500.0,0.0,10.0,10.0,10.2
+2023,Ford,Mustang Mach-E Extended Range AWD,SUV: Small,258.0,A1,B,21.5,24.5,22.9,2.4,2.8,2.6,467.0,0.0,10.0,10.0,10.0
+2023,Ford,Mustang Mach-E California Route 1 AWD,SUV: Small,258.0,A1,B,20.0,22.9,21.3,2.3,2.6,2.4,502.0,0.0,10.0,10.0,10.1
+2023,Ford,Mustang Mach-E GT Performance Edition,SUV: Small,358.0,A1,B,23.8,27.8,25.6,2.7,3.1,2.9,418.0,0.0,10.0,10.0,10.1
+2023,Genesis,Electrified G80,Full-size,272.0,A1,B,19.9,23.6,21.7,2.2,2.6,2.4,454.0,0.0,10.0,10.0,9.0
+2023,Genesis,GV60 Advanced AWD,Full-size,234.0,A1,B,20.3,24.2,22.1,2.3,2.7,2.5,399.0,0.0,10.0,10.0,7.2
+2023,Genesis,GV60 Performance AWD,Full-size,320.0,A1,B,21.7,25.5,23.0,2.4,2.9,2.6,378.0,0.0,10.0,10.0,7.2
+2023,Genesis,Electrified GV70,SUV: Small,320.0,A1,B,21.3,25.1,23.0,2.4,2.8,2.6,383.0,0.0,10.0,10.0,7.9
+2023,Hyundai,IONIQ 5 Standard Range,Full-size,125.0,A1,B,16.2,22.4,19.3,1.9,2.5,2.1,354.0,0.0,10.0,10.0,6.3
+2023,Hyundai,IONIQ 5 Long Range,Full-size,168.0,A1,B,15.5,21.7,18.6,1.8,2.4,2.1,488.0,0.0,10.0,10.0,8.5
+2023,Hyundai,IONIQ 5 Long Range AWD,Full-size,239.0,A1,B,18.9,23.5,21.0,2.1,2.6,2.4,428.0,0.0,10.0,10.0,8.5
+2023,Hyundai,IONIQ 6 Standard Range,Mid-size,111.0,A1,B,13.7,17.4,15.5,1.6,2.0,1.7,386.0,0.0,10.0,10.0,6.1
+2023,Hyundai,IONIQ 6 Long Range (18'' Wheels),Mid-size,168.0,A1,B,13.7,16.2,14.9,1.5,1.9,1.7,581.0,0.0,10.0,10.0,7.5
+2023,Hyundai,IONIQ 6 Long Range AWD (18'' Wheels),Mid-size,239.0,A1,B,16.2,18.6,17.4,1.8,2.1,1.9,509.0,0.0,10.0,10.0,7.5
+2023,Hyundai,IONIQ 6 Long Range AWD (20'' Wheels),Mid-size,239.0,A1,B,18.8,22.4,20.5,2.1,2.5,2.3,435.0,0.0,10.0,10.0,7.5
+2023,Hyundai,Kona Electric,SUV: Small,150.0,A1,B,15.5,19.9,17.4,1.8,2.2,2.0,415.0,0.0,10.0,10.0,9.5
+2023,Jaguar,I-PACE,SUV: Small,294.0,A1,B,24.5,26.7,25.5,2.7,3.0,2.9,381.0,0.0,10.0,10.0,13.0
+2023,Kia,EV6 Standard Range,Station wagon: Small,125.0,A1,B,15.5,21.1,18.0,1.7,2.4,2.0,373.0,0.0,10.0,10.0,6.3
+2023,Kia,EV6 Long Range,Station wagon: Small,168.0,A1,B,15.5,20.5,18.0,1.8,2.3,2.0,499.0,0.0,10.0,10.0,8.7
+2023,Kia,"EV6 Long Range AWD (19"" Wheels)",Station wagon: Small,239.0,A1,B,17.5,21.5,19.3,2.0,2.4,2.2,454.0,0.0,10.0,10.0,8.4
+2023,Kia,"EV6 Long Range AWD (20"" Wheels)",Station wagon: Small,239.0,A1,B,19.9,24.2,21.7,2.2,2.7,2.5,406.0,0.0,10.0,10.0,8.4
+2023,Kia,EV6 GT AWD,Station wagon: Small,430.0,A1,B,24.7,28.4,26.4,2.8,3.2,3.0,332.0,0.0,10.0,10.0,8.9
+2023,Kia,Niro EV,Station wagon: Small,150.0,A1,B,16.8,20.5,18.6,1.9,2.3,2.1,407.0,0.0,10.0,10.0,7.5
+2023,Kia,Soul EV (120 Ah),Station wagon: Small,150.0,A1,B,15.6,20.4,17.8,1.8,2.3,2.0,248.0,0.0,10.0,10.0,6.0
+2023,Kia,Soul EV (180 Ah),Station wagon: Small,150.0,A1,B,16.9,21.0,18.7,1.9,2.4,2.1,383.0,0.0,10.0,10.0,9.5
+2023,Lexus,"RZ 450e AWD (18"" Wheels)",SUV: Small,230.0,A1,B,18.1,21.4,19.6,2.0,2.4,2.2,354.0,0.0,10.0,10.0,10.0
+2023,Lexus,"RZ 450e AWD (20"" Wheels)",SUV: Small,230.0,A1,B,20.3,24.1,22.4,2.3,2.7,2.5,315.0,0.0,10.0,10.0,10.0
+2023,Lucid,"Air Grand Touring XR (19"" Wheels)",Full-size,611.0,A1,B,16.1,15.8,16.0,1.8,1.8,1.8,830.0,0.0,10.0,10.0,13.0
+2023,Lucid,"Air Grand Touring XR (20"" Wheels)",Full-size,611.0,A1,B,17.4,17.1,17.3,2.0,1.9,1.9,755.0,0.0,10.0,10.0,13.0
+2023,Lucid,"Air Grand Touring XR (21"" Wheels)",Full-size,611.0,A1,B,17.4,17.1,17.3,2.0,1.9,1.9,755.0,0.0,10.0,10.0,13.0
+2023,Lucid,"Air Grand Touring Performance (21"" Wheels)",Full-size,783.0,A1,B,19.0,18.8,18.9,2.1,2.1,2.1,718.0,0.0,10.0,10.0,13.0
+2023,Lucid,"Air Pure (19"" Wheels)",Full-size,358.0,A1,B,14.9,14.9,14.9,1.7,1.7,1.7,660.0,0.0,10.0,10.0,10.0
+2023,Lucid,"Air Pure (20"" Wheels)",Full-size,358.0,A1,B,17.2,17.4,17.3,1.9,2.0,1.9,618.0,0.0,10.0,10.0,10.0
+2023,Lucid,"Air Touring (19"" Wheels)",Full-size,462.0,A1,B,14.9,14.9,14.9,1.7,1.7,1.7,684.0,0.0,10.0,10.0,10.0
+2023,Lucid,"Air Touring (20"" Wheels)",Full-size,462.0,A1,B,17.2,17.4,17.3,1.9,2.0,1.9,618.0,0.0,10.0,10.0,10.0
+2023,Lucid,"Air Touring (21"" Wheels)",Full-size,462.0,A1,B,17.2,17.4,17.3,1.9,2.0,1.9,618.0,0.0,10.0,10.0,10.0
+2023,Mazda,MX-30,Mid-size,107.0,A1,B,21.4,24.6,22.8,2.4,2.8,2.6,161.0,0.0,10.0,10.0,5.3
+2023,Mercedes-Benz,AMG EQE 4MATIC+ Sedan,Mid-size,460.0,A1,B,28.1,28.5,28.3,3.2,3.2,3.2,362.0,0.0,10.0,10.0,9.5
+2023,Mercedes-Benz,AMG EQS 4MATIC+ Sedan,Full-size,484.0,A1,B,28.4,27.4,27.9,3.2,3.1,3.1,446.0,0.0,10.0,10.0,11.25
+2023,Mercedes-Benz,EQB 350 4MATIC SUV,SUV: Small,215.0,A1,B,21.4,22.0,21.7,2.4,2.5,2.4,356.0,0.0,10.0,10.0,6.25
+2023,Mercedes-Benz,EQE 350 4MATIC Sedan,Mid-size,215.0,A1,B,24.2,24.2,24.2,2.7,2.7,2.7,418.0,0.0,10.0,10.0,8.25
+2023,Mercedes-Benz,EQE 350 4MATIC SUV,SUV: Standard,215.0,A1,B,25.4,26.4,25.9,2.9,3.0,2.9,407.0,0.0,10.0,10.0,9.5
+2023,Mercedes-Benz,EQE 500 4MATIC Sedan,Mid-size,300.0,A1,B,25.0,25.5,25.2,2.8,2.9,2.8,418.0,0.0,10.0,10.0,9.5
+2023,Mercedes-Benz,EQE 500 4MATIC SUV,SUV: Standard,300.0,A1,B,23.0,24.5,23.7,2.6,2.7,2.7,433.0,0.0,10.0,10.0,9.5
+2023,Mercedes-Benz,EQS 450 4MATIC Sedan,Full-size,265.0,A1,B,20.7,19.9,20.3,2.3,2.2,2.3,547.0,0.0,10.0,10.0,11.5
+2023,Mercedes-Benz,EQS 450 4MATIC SUV,SUV: Standard,265.0,A1,B,26.7,27.3,26.7,3.0,3.1,3.0,459.0,0.0,10.0,10.0,11.5
+2023,Mercedes-Benz,EQS 580 4MATIC Sedan,Full-size,385.0,A1,B,23.3,22.7,23.0,2.6,2.5,2.6,547.0,0.0,10.0,10.0,11.25
+2023,Mercedes-Benz,EQS 580 4MATIC SUV,SUV: Standard,400.0,A1,B,26.1,28.0,27.3,3.0,3.2,3.1,459.0,0.0,10.0,10.0,11.5
+2023,MINI,Cooper SE 3 Door,Subcompact,135.0,A1,B,17.6,20.9,19.1,2.0,2.3,2.1,183.0,0.0,10.0,10.0,4.0
+2023,Polestar,2 Single Motor,Mid-size,170.0,A1,B,18.5,20.9,19.6,2.1,2.3,2.2,435.0,0.0,10.0,10.0,8.0
+2023,Polestar,2 Dual Motor,Mid-size,300.0,A1,B,20.0,21.9,20.9,2.3,2.5,2.3,418.0,0.0,10.0,10.0,8.0
+2023,Polestar,2 Dual Motor Performance Pack,Mid-size,350.0,A1,B,20.0,21.9,20.9,2.3,2.5,2.3,418.0,0.0,10.0,10.0,8.0
+2023,Polestar,2 BST Edition,Mid-size,350.0,A1,B,21.3,23.1,22.1,2.4,2.6,2.5,397.0,0.0,10.0,10.0,8.0
+2023,Porsche,Taycan 4S (Performance Battery),Compact,320.0,A2,B,25.5,25.5,25.5,2.9,2.9,2.9,332.0,0.0,10.0,10.0,9.5
+2023,Porsche,Taycan 4S (Performance Battery Plus),Compact,360.0,A2,B,26.5,26.0,26.3,3.0,2.9,3.0,378.0,0.0,10.0,10.0,10.5
+2023,Porsche,Taycan 4S Cross Turismo,Mid-size,360.0,A2,B,26.7,26.7,26.7,3.0,3.0,3.0,370.0,0.0,10.0,10.0,10.5
+2023,Porsche,Taycan GTS,Compact,380.0,A2,B,25.1,25.5,25.3,2.8,2.9,2.8,396.0,0.0,10.0,10.0,10.5
+2023,Porsche,Taycan GTS Sport Turismo,Compact,380.0,A2,B,26.1,26.2,26.2,2.9,2.9,2.9,322.0,0.0,10.0,10.0,10.5
+2023,Porsche,Taycan Turbo,Compact,460.0,A2,B,25.7,26.3,26.0,2.9,3.0,2.9,383.0,0.0,10.0,10.0,10.5
+2023,Porsche,Taycan Turbo Cross Turismo,Mid-size,460.0,A2,B,26.1,27.0,26.5,2.9,3.0,3.0,375.0,0.0,10.0,10.0,10.5
+2023,Porsche,Taycan Turbo S,Compact,460.0,A2,B,27.3,28.6,28.0,3.1,3.2,3.1,357.0,0.0,10.0,10.0,10.5
+2023,Porsche,Taycan Turbo S Cross Turismo,Mid-size,460.0,A2,B,27.3,28.6,28.0,3.1,3.2,3.1,357.0,0.0,10.0,10.0,10.5
+2023,Rivian,"R1S (20"" Wheels)",SUV: Standard,650.0,A1,B,30.5,35.1,32.5,3.4,3.9,3.7,465.0,0.0,10.0,10.0,13.0
+2023,Rivian,"R1S (20"" Wheels) All-Terrain",SUV: Standard,650.0,A1,B,32.0,35.0,33.4,3.6,3.9,3.7,441.0,0.0,10.0,10.0,13.0
+2023,Rivian,"R1S (20"" Wheels) AT Dual Large",SUV: Standard,418.0,A1,B,29.0,32.5,30.6,3.3,3.6,3.4,494.0,0.0,10.0,10.0,13.0
+2023,Rivian,"R1S (20"" Wheels) AT Performance Dual Large",SUV: Standard,496.0,A1,B,29.0,32.5,30.6,3.3,3.6,3.4,494.0,0.0,10.0,10.0,13.0
+2023,Rivian,"R1S (21"" Wheels)",SUV: Standard,650.0,A1,B,27.8,31.5,29.5,3.1,3.5,3.3,517.0,0.0,10.0,10.0,13.0
+2023,Rivian,"R1S (21"" Wheels) Dual Large",SUV: Standard,418.0,A1,B,25.6,28.4,26.9,2.9,3.2,3.0,566.0,0.0,10.0,10.0,13.0
+2023,Rivian,"R1S (21"" Wheels) Performance Dual Large",SUV: Standard,496.0,A1,B,25.6,28.4,26.9,2.9,3.2,3.0,566.0,0.0,10.0,10.0,13.0
+2023,Rivian,"R1S (22"" Wheels)",SUV: Standard,650.0,A1,B,28.7,33.1,30.7,3.2,3.7,3.4,488.0,0.0,10.0,10.0,13.0
+2023,Rivian,"R1S (22"" Wheels) Dual Large",SUV: Standard,418.0,A1,B,26.3,29.6,27.8,3.0,3.3,3.1,549.0,0.0,10.0,10.0,13.0
+2023,Rivian,"R1S (22"" Wheels) Performance Dual Large",SUV: Standard,496.0,A1,B,26.3,29.6,27.8,3.0,3.3,3.1,549.0,0.0,10.0,10.0,13.0
+2023,Rivian,"R1T (20"" Wheels)",Pickup truck: Standard,650.0,A1,B,30.5,35.1,32.5,3.4,3.9,3.7,465.0,0.0,10.0,10.0,13.0
+2023,Rivian,"R1T (20"" Wheels) All-Terrain",Pickup truck: Standard,650.0,A1,B,32.0,35.0,33.4,3.6,3.9,3.7,441.0,0.0,10.0,10.0,13.0
+2023,Rivian,"R1T (20"" Wheels) AT Dual Large",Pickup truck: Standard,418.0,A1,B,29.0,32.5,30.6,3.3,3.6,3.4,494.0,0.0,10.0,10.0,13.0
+2023,Rivian,"R1T (20"" Wheels) AT Performance Dual Large",Pickup truck: Standard,496.0,A1,B,29.0,32.5,30.6,3.3,3.6,3.4,494.0,0.0,10.0,10.0,13.0
+2023,Rivian,"R1T (21"" Wheels)",Pickup truck: Standard,650.0,A1,B,27.4,30.2,28.7,3.1,3.4,3.2,528.0,0.0,10.0,10.0,13.0
+2023,Rivian,"R1T (21"" Wheels) Dual Large",Pickup truck: Standard,418.0,A1,B,25.6,28.4,26.9,2.9,3.2,3.0,566.0,0.0,10.0,10.0,13.0
+2023,Rivian,"R1T (21"" Wheels) Performance Dual Large",Pickup truck: Standard,496.0,A1,B,25.6,28.4,26.9,2.9,3.2,3.0,566.0,0.0,10.0,10.0,13.0
+2023,Rivian,"R1T (22"" Wheels)",Pickup truck: Standard,650.0,A1,B,28.7,33.1,30.7,3.2,3.7,3.4,488.0,0.0,10.0,10.0,13.0
+2023,Rivian,"R1T (22"" Wheels) Dual Large",Pickup truck: Standard,418.0,A1,B,26.1,29.5,27.6,2.9,3.3,3.1,549.0,0.0,10.0,10.0,13.0
+2023,Rivian,"R1T (22"" Wheels) Performance Dual Large",Pickup truck: Standard,496.0,A1,B,26.1,29.5,27.6,2.9,3.3,3.1,549.0,0.0,10.0,10.0,13.0
+2023,Subaru,Solterra AWD,SUV: Small,160.0,A1,B,18.6,22.4,20.3,2.1,2.5,2.3,360.0,0.0,10.0,10.0,11.0
+2023,Tesla,Model 3 RWD,Mid-size,191.0,A1,B,15.2,16.6,15.8,1.7,1.9,1.8,438.0,0.0,10.0,10.0,8.5
+2023,Tesla,Model 3 Long Range AWD,Mid-size,293.0,A1,B,15.6,16.6,16.0,1.8,1.9,1.8,576.0,0.0,10.0,10.0,10.0
+2023,Tesla,Model 3 Long Range AWD (Import),Mid-size,276.0,A1,B,16.0,17.3,16.6,1.8,1.9,1.9,534.0,0.0,10.0,10.0,10.0
+2023,Tesla,Model 3 Performance,Mid-size,321.0,A1,B,17.8,19.6,18.6,2.0,2.2,2.1,507.0,0.0,10.0,10.0,10.0
+2023,Tesla,Model S,Full-size,494.0,A1,B,16.9,18.3,17.5,1.9,2.1,2.0,652.0,0.0,10.0,10.0,15.0
+2023,Tesla,"Model S Plaid (19"" Wheels)",Full-size,750.0,A1,B,17.6,18.7,18.1,2.0,2.1,2.0,637.0,0.0,10.0,10.0,15.0
+2023,Tesla,"Model S Plaid (21"" Wheels)",Full-size,750.0,A1,B,20.4,21.2,20.8,2.3,2.4,2.3,560.0,0.0,10.0,10.0,15.0
+2023,Tesla,Model X,SUV: Standard,494.0,A1,B,19.7,21.7,20.6,2.2,2.4,2.3,560.0,0.0,10.0,10.0,14.0
+2023,Tesla,"Model X Plaid (20"" Wheels)",SUV: Standard,750.0,A1,B,20.4,22.5,21.4,2.3,2.5,2.4,536.0,0.0,10.0,10.0,14.0
+2023,Tesla,"Model X Plaid (22"" Wheels)",SUV: Standard,750.0,A1,B,22.3,23.8,22.9,2.5,2.7,2.6,500.0,0.0,10.0,10.0,14.0
+2023,Tesla,Model Y RWD,SUV: Small,211.0,A1,B,16.6,18.1,17.3,1.9,2.0,1.9,394.0,0.0,10.0,10.0,8.0
+2023,Tesla,Model Y AWD,SUV: Small,291.0,A1,B,16.3,18.1,17.1,1.8,2.0,1.9,449.0,0.0,10.0,10.0,9.0
+2023,Tesla,Model Y Long Range AWD,SUV: Small,291.0,A1,B,16.5,17.9,17.2,1.9,2.0,1.9,531.0,0.0,10.0,10.0,10.0
+2023,Tesla,Model Y Long Range AWD (Import),SUV: Small,291.0,A1,B,17.4,18.2,17.8,2.0,2.0,2.0,497.0,0.0,10.0,10.0,10.0
+2023,Tesla,Model Y Performance,SUV: Small,312.0,A1,B,18.2,19.8,18.9,2.0,2.2,2.1,488.0,0.0,10.0,10.0,10.0
+2023,Tesla,Model Y Performance (Import),SUV: Small,314.0,A1,B,18.3,20.4,19.2,2.1,2.3,2.2,459.0,0.0,10.0,10.0,10.0
+2023,Toyota,bZ4X,SUV: Small,150.0,A1,B,16.0,19.5,17.6,1.8,2.2,2.0,406.0,0.0,10.0,10.0,11.0
+2023,Toyota,bZ4X AWD,SUV: Small,160.0,A1,B,18.4,22.3,20.1,2.1,2.5,2.3,367.0,0.0,10.0,10.0,11.0
+2023,VinFast,VF8 ECO,SUV: Small,260.0,A1,B,26.4,29.5,27.8,3.0,3.3,3.1,425.0,0.0,10.0,10.0,12.0
+2023,VinFast,VF8 PLUS,SUV: Small,260.0,A1,B,32.3,34.3,33.2,3.6,3.8,3.7,354.0,0.0,10.0,10.0,12.0
+2023,VinFast,VF8 PLUS,SUV: Small,300.0,A1,B,43.8,48.4,45.9,4.9,5.4,5.2,391.0,0.0,10.0,10.0,12.0
+2023,Volkswagen,ID.4,SUV: Small,150.0,A1,B,18.2,21.2,19.6,2.0,2.4,2.2,336.0,0.0,10.0,10.0,6.0
+2023,Volkswagen,ID.4 Pro,SUV: Small,150.0,A1,B,18.2,21.3,19.6,2.0,2.4,2.2,443.0,0.0,10.0,10.0,7.5
+2023,Volkswagen,ID.4 AWD Pro,SUV: Small,220.0,A1,B,20.1,22.6,21.2,2.3,2.5,2.4,410.0,0.0,10.0,10.0,7.5
+2023,Volvo,C40 Recharge Twin,SUV: Small,300.0,A1,B,22.2,26.1,23.9,2.5,2.9,2.7,364.0,0.0,10.0,10.0,8.0
+2023,Volvo,XC40 Recharge Twin,SUV: Small,300.0,A1,B,22.8,26.6,24.5,2.6,3.0,2.8,359.0,0.0,10.0,10.0,8.0
