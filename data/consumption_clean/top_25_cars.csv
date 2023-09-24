@@ -1,0 +1,26 @@
+make,model,class,motor,range,recharge_time,efficiency_score,price
+Hyundai,IONIQ 6 Long Range (18'' Wheels),Mid-size,168.0,581.0,7.5,77.46666666666667,49000
+Cadillac,LYRIQ,SUV: Small,254.0,502.0,6.5,77.23076923076923,63000
+Lucid,"Air Touring (19"" Wheels)",Full-size,462.0,684.0,10.0,68.4,unknown
+Hyundai,IONIQ 6 Long Range AWD (18'' Wheels),Mid-size,239.0,509.0,7.5,67.86666666666666,45000
+Lucid,"Air Pure (19"" Wheels)",Full-size,358.0,660.0,10.0,66.0,52000
+Lucid,"Air Grand Touring XR (19"" Wheels)",Full-size,611.0,830.0,13.0,63.84615384615385,53000
+Hyundai,IONIQ 6 Standard Range,Mid-size,111.0,386.0,6.1,63.278688524590166,49000
+Lucid,"Air Touring (21"" Wheels)",Full-size,462.0,618.0,10.0,61.8,51000
+Lucid,"Air Pure (20"" Wheels)",Full-size,358.0,618.0,10.0,61.8,48000
+Lucid,"Air Touring (20"" Wheels)",Full-size,462.0,618.0,10.0,61.8,47000
+Kia,EV6 Standard Range,Station wagon: Small,125.0,373.0,6.3,59.20634920634921,46000
+Volkswagen,ID.4 Pro,SUV: Small,150.0,443.0,7.5,59.06666666666667,45000
+Lucid,"Air Grand Touring XR (21"" Wheels)",Full-size,611.0,755.0,13.0,58.07692307692308,54000
+Lucid,"Air Grand Touring XR (20"" Wheels)",Full-size,611.0,755.0,13.0,58.07692307692308,55000
+Hyundai,IONIQ 6 Long Range AWD (20'' Wheels),Mid-size,239.0,435.0,7.5,58.0,50000
+Tesla,Model 3 Long Range AWD,Mid-size,293.0,576.0,10.0,57.6,56000
+Hyundai,IONIQ 5 Long Range,Full-size,168.0,488.0,8.5,57.411764705882355,57000
+Kia,EV6 Long Range,Station wagon: Small,168.0,499.0,8.7,57.356321839080465,52000
+Mercedes-Benz,EQB 350 4MATIC SUV,SUV: Small,215.0,356.0,6.25,56.96,53000
+Hyundai,IONIQ 5 Standard Range,Full-size,125.0,354.0,6.3,56.19047619047619,54000
+Volkswagen,ID.4,SUV: Small,150.0,336.0,6.0,56.0,54000
+Chevrolet,Bolt EV,Station wagon: Small,150.0,417.0,7.5,55.6,54000
+Genesis,GV60 Advanced AWD,Full-size,234.0,399.0,7.2,55.416666666666664,50000
+Lucid,"Air Grand Touring Performance (21"" Wheels)",Full-size,783.0,718.0,13.0,55.23076923076923,50000
+Volkswagen,ID.4 AWD Pro,SUV: Small,220.0,410.0,7.5,54.666666666666664,50000
