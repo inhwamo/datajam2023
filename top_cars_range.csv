@@ -1,0 +1,11 @@
+Rank,make,model,class,motor,range,recharge_time,efficiency_score
+1,Lucid,"Air Grand Touring XR (19"" Wheels)",Full-size,611.0,830.0,13.0,63.84615384615385
+2,Lucid,"Air Grand Touring XR (21"" Wheels)",Full-size,611.0,755.0,13.0,58.07692307692308
+3,Lucid,"Air Grand Touring XR (20"" Wheels)",Full-size,611.0,755.0,13.0,58.07692307692308
+4,Lucid,"Air Grand Touring Performance (21"" Wheels)",Full-size,783.0,718.0,13.0,55.23076923076923
+5,Lucid,"Air Touring (19"" Wheels)",Full-size,462.0,684.0,10.0,68.4
+6,Lucid,"Air Pure (19"" Wheels)",Full-size,358.0,660.0,10.0,66.0
+7,Tesla,Model S,Full-size,494.0,652.0,15.0,43.46666666666667
+8,Tesla,"Model S Plaid (19"" Wheels)",Full-size,750.0,637.0,15.0,42.46666666666667
+9,Lucid,"Air Pure (20"" Wheels)",Full-size,358.0,618.0,10.0,61.8
+10,Lucid,"Air Touring (20"" Wheels)",Full-size,462.0,618.0,10.0,61.8
